@@ -6,6 +6,7 @@ gagaga
 
 
 
+<<<<<<< Updated upstream
 
 
 
@@ -15,3 +16,6 @@ faaaaaaaaaaaaaaaaaa
 
 
 gagsdg
+=======
+asgsdgg
+>>>>>>> Stashed changes
